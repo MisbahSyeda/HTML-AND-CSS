@@ -1,0 +1,89 @@
+html{
+            height:100%;
+        }
+        body{
+            font-family: 'Thasadith', sans-serif;
+            background: linear-gradient(to bottom, rgba(42,37,188,1) 18%,rgba(36,227,244,1) 100%) no-repeat; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+           
+        }
+        #button{
+            position:absolute;
+            bottom:400px;
+            left:-25px;            
+            background-color: #2196F3;
+            border-radius: 5px;
+            width:90px;
+            border:none;
+            height:37px;
+            color:white;
+            transform:rotate(270deg);
+        }
+        #trinity{ 
+                font-weight: bold;
+                color:#4d4b4b;
+                margin-right:35%;
+                margin-left:90px;
+                display:inline;
+        }
+        .nav{
+            display:inline;
+            padding:13px;
+            text-transform: uppercase;
+            font-size:13px;
+
+        }
+        #external{
+            height:50px;
+            width:100%;
+            background-color:white;
+            position:absolute;
+            left:0px;
+            top:0px;
+        }
+        .input{
+            border:none;
+            border-bottom:1px solid #818181;
+            padding:5px;
+            margin-left:15px;
+        }
+        #form{
+            background-color: white;
+            width:290px;
+            height:350px;
+            position:absolute;
+            left:900px;
+            top:180px;
+            padding-left: 20px;
+            border-radius: 2px;
+        }
+        #start{
+            width:180px;
+            height:40px;
+            border-radius: 20px;
+            background-color:#2196F3;
+            text-align:center;
+            font-weight: bold;
+            border:none;
+            margin-top:10px;
+            margin-left:45px;
+            color:#FBFDFF;
+            box-shadow: 0px 0px 2px rgb(165, 161, 161);
+        }
+        #get{
+            font-size:25px; 
+            font-weight:bold;
+        }
+        #free{
+            color:#2196F3;
+        }
+        #clean{
+            width:500px;
+            height:300px;
+            color:white;
+            position:absolute;
+            left:250px;
+            top:200px;
+        }
+        #font{
+            font-size:40px;
+        }
